@@ -79,8 +79,6 @@ networking, cloud, and secure software development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord)](YOUR_DISCORD_URL)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Di1shan-black?style=for-the-badge&logo=github)](https://github.com/Di1shan)
 
 ---
