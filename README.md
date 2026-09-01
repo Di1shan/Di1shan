@@ -48,10 +48,18 @@ can be designed and secured better.
 
 ## 🚀 Featured Projects
 
-I'm currently building and documenting projects focused on
-cybersecurity, networking, cloud, and software engineering.
+### ☀️ Solar-Assisted Community Biogas Hub
 
-> 🚧 Projects will be added here as they are completed and documented.
+**Digital Technology in Indigenous Context — 2026**
+
+A sustainable technology solution designed for organic waste management
+in Warmun, a remote Aboriginal community in Western Australia.
+
+The proposed system uses solar-assisted anaerobic digestion to convert
+organic waste into biogas and digestate, while incorporating waste
+separation, gas pressure monitoring, and basic safety controls.
+
+**Focus:** Sustainable Technology • Systems Design • Research • Problem Solving
 
 ---
 
