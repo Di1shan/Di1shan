@@ -36,7 +36,9 @@ can be designed and secured better.
 
 ### 🗄️ Databases
 
-[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+`SQL`
 
 ### 🔐 Security & Networking
 
@@ -46,9 +48,15 @@ can be designed and secured better.
 
 [![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,docker,linux)](https://skillicons.dev)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Development & Collaboration
 
-[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![Development Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+`Jira` `Confluence`
+
+### 🎨 Creative & Media
+
+`Adobe Photoshop` `Adobe Premiere Pro` `Adobe After Effects`
 
 ---
 
