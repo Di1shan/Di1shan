@@ -59,6 +59,7 @@ can be designed and secured better.
 ### 🎨 Design & Media
 
 [![Design & Media](https://skillicons.dev/icons?i=ps,pr,ae)](https://skillicons.dev)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
 
 ---
 
