@@ -38,11 +38,13 @@ can be designed and secured better.
 
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-`SQL`
 
 ### 🔐 Security & Networking
 
-`Wireshark` `Nmap` `Cisco Networking` `Computer Networking`
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Networking](https://img.shields.io/badge/Computer%20Networking-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white)](#)
 
 ### ☁️ Cloud & Infrastructure
 
