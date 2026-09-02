@@ -16,7 +16,7 @@ can be designed and secured better.
 ## 🛡️ Areas of Interest
 
 - 🔐 Security Engineering
-- 🌐 Network Security
+- 🌐 Network & Infrastructure Security
 - ☁️ Cloud Security
 - ⚙️ Security Automation
 - 💻 Secure Software Development
@@ -27,22 +27,28 @@ can be designed and secured better.
 ## ⚒️ Technical Skills
 
 ### 💻 Programming & Scripting
-`C` `Python` `JavaScript` `PHP` `Swift` `Bash`
+
+[![Programming Skills](https://skillicons.dev/icons?i=c,python,js,php,swift,bash)](https://skillicons.dev)
 
 ### 🌐 Web Development
-`HTML` `CSS`
+
+[![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### 🗄️ Databases
-`SQL`
+
+[![Database](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### 🔐 Security & Networking
+
 `Wireshark` `Nmap` `Cisco Networking` `Computer Networking`
 
 ### ☁️ Cloud & Infrastructure
-`AWS` `Docker`
+
+[![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,docker,linux)](https://skillicons.dev)
 
 ### 🛠️ Tools & Platforms
-`Git` `GitHub` `Linux`
+
+[![Tools](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 
@@ -65,11 +71,11 @@ separation, gas pressure monitoring, and basic safety controls.
 
 ## 📚 Currently Learning
 
-🔐 Security Engineering  
-☁️ Cloud Security  
-🌐 Network Security  
-⚙️ Security Automation  
-💻 Secure Software Development
+- 🔐 Security Engineering
+- ☁️ Cloud Security
+- 🌐 Network Security
+- ⚙️ Security Automation
+- 💻 Secure Software Development
 
 ---
 
@@ -83,11 +89,9 @@ networking, cloud, and secure software development.
 
 ## 🤝 Let's Connect
 
-💬 **Discord:** `di1shan`
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Di1shan-black?style=for-the-badge&logo=github)](https://github.com/Di1shan)
+💬 **Discord:** `di1shan`
 
 ---
 
