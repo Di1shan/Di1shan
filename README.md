@@ -38,7 +38,6 @@ can be designed and secured better.
 
 [![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-`SQL`
 
 ### 🔐 Security & Networking
 
