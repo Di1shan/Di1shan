@@ -54,7 +54,7 @@ can be designed and secured better.
 
 `Jira` `Confluence`
 
-### 🎨 Creative & Media
+### 🎨 Design & Media
 
 `Adobe Photoshop` `Adobe Premiere Pro` `Adobe After Effects`
 
@@ -91,7 +91,7 @@ separation, gas pressure monitoring, and basic safety controls.
 
 My goal is to become a **Security Engineer**, combining my background in
 Computer Science and Cybersecurity with practical experience in systems,
-networking, cloud, and secure software development.
+networking, cloud, programming, and secure software development.
 
 ---
 
