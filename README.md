@@ -79,7 +79,7 @@ can be designed and secured better.
 
 ### ☀️ Solar-Assisted Community Biogas Hub
 
-**Digital Technology in Indigenous Context — 2026**
+**Digital Technology in Indigenous Context - 2026**
 
 A sustainable technology solution designed for organic waste management
 in Warmun, a remote Aboriginal community in Western Australia.
