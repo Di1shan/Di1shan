@@ -104,10 +104,15 @@ I study Computer Science at Swinburne University of Technology Sarawak, speciali
 ![After Effects](https://img.shields.io/badge/Ae-After%20Effects-4C368C?style=for-the-badge&labelColor=00005B)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-D97706?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
-[![Connect on LinkedIn](https://img.shields.io/badge/in-LinkedIn-0A66C2?style=for-the-badge&labelColor=084E96)](https://www.linkedin.com/in/di1shan/)
-![Discord username di1shan](https://img.shields.io/badge/Discord-di1shan-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/di1shan/)
+
+💬 **Discord:** `di1shan`
+
+---
+
+⭐ *Thanks for visiting my profile!*
 
 [zap]: https://img.shields.io/badge/⚡-OWASP%20ZAP-00549E?style=for-the-badge&labelColor=00549E
 [xss]: https://img.shields.io/badge/%3C%2F%3E-XSS%20Testing-68429B?style=for-the-badge&labelColor=68429B
