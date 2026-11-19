@@ -75,33 +75,6 @@ can be designed and secured better.
 
 ---
 
-## 🚀 Featured Projects
-
-### ☀️ Solar-Assisted Community Biogas Hub
-
-**Digital Technology in Indigenous Context - 2026**
-
-A sustainable technology solution designed for organic waste management
-in Warmun, a remote Aboriginal community in Western Australia.
-
-The proposed system uses solar-assisted anaerobic digestion to convert
-organic waste into biogas and digestate, while incorporating waste
-separation, gas pressure monitoring, and basic safety controls.
-
-**Focus:** Sustainable Technology • Systems Design • Research • Problem Solving
-
----
-
-## 📚 Currently Learning
-
-- 🔐 Security Engineering
-- ☁️ Cloud Security
-- 🌐 Network Security
-- ⚙️ Security Automation
-- 💻 Secure Software Development
-
----
-
 ## 🎯 Career Goal
 
 My goal is to become a **Security Engineer**, combining my background in
