@@ -106,9 +106,7 @@ I study Computer Science at Swinburne University of Technology Sarawak, speciali
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/di1shan/)
-
-💬 **Discord:** `di1shan`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/di1shan/) 💬 **Discord:** `di1shan`
 
 ---
 
