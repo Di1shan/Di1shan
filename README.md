@@ -31,27 +31,13 @@ I study Computer Science at Swinburne University of Technology Sarawak, speciali
 ![x64dbg][x64dbg]
 ![OllyDbg][ollydbg]
 ![dnSpy][dnspy]
-![Scylla][scylla]
-![HxD][hxd]
-![UPX][upx]
-![NASM][nasm]
-![PEview][peview]
-![PEiD][peid]
-![Detect It Easy][die]
-![pestudio][pestudio]
-![BinText][bintext]
-![Dependency Walker][walker]
-![DependencyGUI][dependencygui]
-![Resource Hacker][resourcehacker]
-![PDF Stream Dumper][pdfstream]
 ![capa][capa]
-![Process Explorer][procexp]
 ![Process Monitor][procmon]
-![FakeNet][fakenet]
-![Cuckoo Sandbox][cuckoo]
+![Process Explorer][procexp]
 ![ANY.RUN][anyrun]
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Malwarebytes](https://img.shields.io/badge/Malwarebytes-1453B8?style=for-the-badge&logo=malwarebytes&logoColor=white)
+![pestudio][pestudio]
 
 ### 💽 Digital Forensics & Cryptography
 
@@ -106,7 +92,7 @@ I study Computer Science at Swinburne University of Technology Sarawak, speciali
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/di1shan/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/di1shan/)
 
 💬 **Discord:** `di1shan`
 
@@ -130,25 +116,11 @@ I study Computer Science at Swinburne University of Technology Sarawak, speciali
 [x64dbg]: https://img.shields.io/badge/▶-x64dbg-334155?style=for-the-badge&labelColor=334155
 [ollydbg]: https://img.shields.io/badge/▶-OllyDbg-475569?style=for-the-badge&labelColor=475569
 [dnspy]: https://img.shields.io/badge/dnSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[scylla]: https://img.shields.io/badge/↗-Scylla-374151?style=for-the-badge&labelColor=374151
-[hxd]: https://img.shields.io/badge/0x-HxD-7F1D1D?style=for-the-badge&labelColor=7F1D1D
-[upx]: https://img.shields.io/badge/UPX-475569?style=for-the-badge&logo=gnubash&logoColor=white
-[nasm]: https://img.shields.io/badge/NASM-334155?style=for-the-badge&logo=gnubash&logoColor=white
-[peview]: https://img.shields.io/badge/▤-PEview-374151?style=for-the-badge&labelColor=374151
-[peid]: https://img.shields.io/badge/▤-PEiD-374151?style=for-the-badge&labelColor=374151
-[die]: https://img.shields.io/badge/⌕-Detect%20It%20Easy%20%28DiE%29-5B21B6?style=for-the-badge&labelColor=5B21B6
-[pestudio]: https://img.shields.io/badge/▤-pestudio-334155?style=for-the-badge&labelColor=334155
-[bintext]: https://img.shields.io/badge/Aa-BinText-475569?style=for-the-badge&labelColor=475569
-[walker]: https://img.shields.io/badge/⑂-Dependency%20Walker-374151?style=for-the-badge&labelColor=374151
-[dependencygui]: https://img.shields.io/badge/⑂-DependencyGUI-374151?style=for-the-badge&labelColor=374151
-[resourcehacker]: https://img.shields.io/badge/▦-Resource%20Hacker-475569?style=for-the-badge&labelColor=475569
-[pdfstream]: https://img.shields.io/badge/▤-PDF%20Stream%20Dumper-475569?style=for-the-badge&labelColor=475569
 [capa]: https://img.shields.io/badge/⌕-capa-1E4661?style=for-the-badge&labelColor=1E4661
-[procexp]: https://img.shields.io/badge/⑂-Process%20Explorer-005A9E?style=for-the-badge&labelColor=005A9E
 [procmon]: https://img.shields.io/badge/▥-Process%20Monitor-005A9E?style=for-the-badge&labelColor=005A9E
-[fakenet]: https://img.shields.io/badge/⇄-FakeNet-285678?style=for-the-badge&labelColor=285678
-[cuckoo]: https://img.shields.io/badge/◇-Cuckoo%20Sandbox-59406F?style=for-the-badge&labelColor=59406F
+[procexp]: https://img.shields.io/badge/⑂-Process%20Explorer-005A9E?style=for-the-badge&labelColor=005A9E
 [anyrun]: https://img.shields.io/badge/▶-ANY.RUN-155E75?style=for-the-badge&labelColor=155E75
+[pestudio]: https://img.shields.io/badge/▤-pestudio-334155?style=for-the-badge&labelColor=334155
 
 [tsk]: https://img.shields.io/badge/⌕-The%20Sleuth%20Kit-1E4661?style=for-the-badge&labelColor=1E4661
 [icat]: https://img.shields.io/badge/icat-285678?style=for-the-badge&logo=gnubash&logoColor=white
